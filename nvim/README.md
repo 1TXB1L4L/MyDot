@@ -83,6 +83,7 @@ Follow the authentication steps to link your GitHub account.
 | `<leader>tn` | Next tab |
 | `<leader>tx` | Close current tab |
 | `<leader>to` | Open new tab |
+| `<C-t>` | Open or close terminal |
 
 ### Fuzzy Finding (Telescope)
 
